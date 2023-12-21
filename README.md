@@ -7,6 +7,7 @@ Retail Sales Forecast employs advanced machine learning techniques, data preproc
 - Python
 - Numpy
 - Pandas
+- Matplotlib
 - PostgreSQL
 - Scikit-Learn
 - Plotly
