@@ -3,7 +3,7 @@
 
 Retail Sales Forecast employs advanced machine learning techniques, data preprocessing, feature enhancement, and comprehensive algorithm assessment and selection.It integrates Exploratory Data Analysis (EDA) to find trends, patterns, and data insights. It offers users interactive tools to explore top-performing stores and departments, conduct insightful feature comparisons, and obtain personalized sales forecasts. With a commitment to delivering actionable insights, the project aims to optimize decision-making processes within the dynamic retail landscape.
 
-**Key Technologies and Skills**
+**Key Technologies and Skills** :
 - Python
 - Numpy
 - Pandas
