@@ -17,7 +17,7 @@ Retail Sales Forecast employs advanced machine learning techniques, data preproc
 
 **Features**:
 
-**Data Preprocessing:**
+**Data Preprocessing**:
 
 - **Data Understanding**: The dataset comprises store, sales, and features data, offering details on store attributes like name, department, date, type, size, weekly sales, and environmental factors such as holiday status, temperature, fuel price, multiple markdowns, CPI, and unemployment. The primary focus is on predicting weekly sales, serving as the target variable for our modeling endeavors. This initial exploration forms the basis for subsequent data preprocessing and model development.
 
