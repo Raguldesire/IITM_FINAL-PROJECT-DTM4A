@@ -44,7 +44,7 @@ Retail Sales Forecast employs advanced machine learning techniques, data preproc
 
 **Features**: 
 - Embark on a detailed analysis to understand how the different ranges of features affect weekly sales. Explore the impact of various feature ranges on sales, considering both date-wise and store-wise perspectives. 
-- This examination covers features such as type, size, holiday, temperature, fuel price, CPI, unemployment, and multiple markdowns. The comprehensive study ensures a thorough grasp of how each feature uniquely influences the data, offering valuable insights into sales patterns.
+- This examination covers features such as type, size, holiday, temperature, fuel price, CPI, unemployment, and multiple markdowns. The comprehensive study ensures a thorough grasp of how each feature uniquely influences the data, offering valuable insights into sales patterns...
 
 **Prediction**: 
 - Users provide input parameters such as date, store, department, holiday, temperature, fuel price, CPI, unemployment, and multiple markdowns. Leveraging the pre-trained Random Forest Regressor model stored in a pickle file, the system predicts weekly sales based on the user's input. 
