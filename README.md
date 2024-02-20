@@ -40,7 +40,7 @@ Retail Sales Forecast employs advanced machine learning techniques, data preproc
 
 
 **Exploratory Data Analysis (EDA) -
-- **Data Visualization**: EDA employs visual techniques to represent the statistics graphically. Visualizations consisting of histograms, box plots, scatter plots, line plots, heatmaps, and bar charts assist in identifying styles, trends, and relationships within the facts...
+- **Data Visualization**: EDA employs visual techniques to represent the statistics graphically and present data in visualize manner. Visualizations consisting of histograms, box plots, scatter plots, line plots, heatmaps, and bar charts assist in identifying styles, trends, and relationships within the facts...
 
 **Features**: 
 - Embark on a detailed analysis to understand how the different ranges of features affect weekly sales. Explore the impact of various feature ranges on sales, considering both date-wise and store-wise perspectives. 
