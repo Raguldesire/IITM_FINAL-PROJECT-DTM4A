@@ -48,6 +48,6 @@ Retail Sales Forecast employs advanced machine learning techniques, data preproc
 
 **Prediction**: 
 - Users provide input parameters such as date, store, department, holiday, temperature, fuel price, CPI, unemployment, and multiple markdowns. Leveraging the pre-trained Random Forest Regressor model stored in a pickle file, the system predicts weekly sales based on the user's input. 
-- Users can experiment with various combinations of input values, allowing our machine learning regression model to dynamically forecast weekly sales tailored to the provided data parameters. This interactive feature enhances user engagement and facilitates personalized predictions.
+- Users can experiment with various combinations of input values, allowing our machine learning regression model to dynamically forecast weekly sales tailored to the provided data parameters. This interactive feature enhances user engagement and facilitates personalized predictions...
 
 
